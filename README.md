@@ -1,1 +1,1 @@
-# VLHA
+Vacuumlabs Haskell Academy
